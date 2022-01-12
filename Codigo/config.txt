@@ -1,0 +1,9 @@
+Total: 3
+Mesa: 1
+Capacidade: 2
+Mesa: 2
+Capacidade: 4
+Mesa: 3
+Capacidade: 6
+Mesa: 3
+Capacidade: 6

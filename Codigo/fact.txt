@@ -1,0 +1,19 @@
+REGISTO DO DIA
+
+Mesa: 1
+
+Empregado: paulo
+
+qnt	preco(unit)	nome
+
+2	2.00	Caldo verde
+
+Total: 4.00
+
+
+
+Facturaçao de Empregados
+
+paulo		4.00
+
+Facturacao do DIA: 4.00
